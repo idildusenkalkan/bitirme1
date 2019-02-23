@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">OnlineInt</string>
+    <string name="START">START</string>
+    <string name="EXIT">EXIT</string>
+    <string name="NEXT">NEXT</string>
+    <string name="NAME">NAME</string>
+    <string name="SURNAME">SURNAME</string>
+    <string name="MAIL">MAIL</string>
+    <string name="TC">TC</string>
+    <string name="SEND">SEND</string>
+    <string name="PHONE_NUMBER">PHONE NUMBER</string>
+    <string name="BACK">BACK</string>
+    <string name="ENTER_EXAM_PASSWORD">ENTER USER PASSWORD</string>
+    <string name="ENTER_EXAM_ID">ENTER USER ID</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
